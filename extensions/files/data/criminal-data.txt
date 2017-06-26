@@ -1,0 +1,7 @@
+Name,SSN,Felonies,YearsIncarcerated,Fingerprints,EyeColor
+John Doe,123-45-6789,1,2,Yes,Blue
+Jane Doe,234-56-7890,0,0,No,N/A
+Jim Doe,345-67-8901,7,29,Yes,Green
+Jason Stajduhar,333-33-3333,10,0,Yes,Brown
+Tom Brady,666-66-6666,0,0,No,Black
+Donald Trump,505-50-5050,12,0,Yes,Orange
