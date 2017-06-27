@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <vdb name="federated_view" version="1">
 <description/>
 <property name="validationDateTime" value="Tue Jun 27 14:13:47 EDT 2017"/>
